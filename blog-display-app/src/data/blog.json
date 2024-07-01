@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Ultimate Guide to Italian Pasta Dishes",
+    "description": "Discover the rich flavors and varieties of traditional Italian pasta dishes. From spaghetti carbonara to lasagna, we cover it all.",
+    "date": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEl0YWxpYW4lMjBQYXN0YXxlbnwwfHwwfHx8MA%3D%3D",
+    "recipe": "1. Boil pasta in salted water until al dente.\n2. In a pan, heat olive oil and sauté garlic.\n3. Add tomato sauce, salt, and pepper.\n4. Combine pasta with the sauce.\n5. Serve with grated Parmesan cheese and basil."
+  },
+  {
+    "id": 2,
+    "title": "10 Best Street Foods You Must Try in Bangkok",
+    "description": "Bangkok is famous for its vibrant street food scene. Explore the top 10 street foods you can't miss when visiting this bustling city.",
+    "date": "2024-06-15",
+    "image": "https://images.unsplash.com/photo-1556403806-90f55c9db1e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RyZWV0JTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "recipe": "1. Start with fresh rice noodles.\n2. Stir-fry with garlic, soy sauce, and vegetables.\n3. Add cooked chicken or shrimp.\n4. Top with fresh herbs and lime juice.\n5. Serve hot with a side of chili sauce."
+  },
+  {
+    "id": 3,
+    "title": "A Journey Through the Spices of India",
+    "description": "Embark on a journey through the diverse and aromatic spices of India. Learn how to use these spices to create authentic Indian dishes.",
+    "date": "2024-06-20",
+    "image": "https://plus.unsplash.com/premium_photo-1694699356040-2a14b00b67b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "recipe": "1. Heat oil in a pan and add cumin seeds.\n2. Sauté onions, garlic, and ginger.\n3. Add turmeric, coriander, and garam masala.\n4. Cook tomatoes until soft.\n5. Add vegetables and simmer until cooked.\n6. Garnish with cilantro and serve with rice or naan."
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Flavors of Mexican Street Tacos",
+    "description": "Dive into the world of Mexican street tacos. Discover the different types of tacos and the unique flavors each one brings.",
+    "date": "2024-06-25",
+    "image": "https://plus.unsplash.com/premium_photo-1681406995009-36bf99ce02ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWV4aWNhaW4lMjB0YWNvc3xlbnwwfHwwfHx8MA%3D%3D",
+    "recipe": "1. Marinate meat with lime juice, garlic, and spices.\n2. Grill meat until cooked through.\n3. Warm corn tortillas on a skillet.\n4. Assemble tacos with meat, onions, cilantro, and salsa.\n5. Serve with lime wedges and hot sauce."
+  },
+  {
+    "id": 5,
+    "title": "Healthy Smoothie Recipes for Every Day of the Week",
+    "description": "Stay healthy and energized with these delicious smoothie recipes. We've got a recipe for each day of the week, packed with nutrients.",
+    "date": "2024-06-30",
+    "image": "https://images.unsplash.com/photo-1570696516188-ade861b84a49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c21vb3RoaWV8ZW58MHx8MHx8fDA%3D",
+    "recipe": "1. Blend spinach, banana, and almond milk for a green smoothie.\n2. Try mixed berries with Greek yogurt and honey.\n3. For a tropical twist, blend mango, pineapple, and coconut water.\n4. Add protein powder and oats for a post-workout boost.\n5. Experiment with different fruits and vegetables for variety."
+  },
+  {
+    "id": 6,
+    "title": "The Best Homemade Pizza Recipes",
+    "description": "Why order out when you can make delicious pizza at home? Check out our best homemade pizza recipes that are sure to impress.",
+    "date": "2024-07-05",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D",
+    "recipe": "1. Prepare pizza dough and let it rise.\n2. Roll out the dough and add tomato sauce.\n3. Top with mozzarella cheese and your favorite toppings.\n4. Bake in a preheated oven at 475°F until crust is golden.\n5. Garnish with fresh basil and serve hot."
+  },
+  {
+    "id": 7,
+    "title": "The Art of Sushi Making",
+    "description": "Learn the art of sushi making with our step-by-step guide. From selecting the freshest ingredients to rolling the perfect sushi, we've got you covered.",
+    "date": "2024-07-10",
+    "image": "https://plus.unsplash.com/premium_photo-1668146927669-f2edf6e86f6f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2h1c2hpfGVufDB8fDB8fHww",
+    "recipe": "1. Rinse sushi rice until water runs clear.\n2. Cook rice with water and vinegar.\n3. Slice fresh fish and vegetables.\n4. Lay a sheet of nori on a bamboo mat.\n5. Spread rice evenly on nori and add fillings.\n6. Roll tightly and slice into pieces.\n7. Serve with soy sauce, wasabi, and pickled ginger."
+  },
+  {
+    "id": 8,
+    "title": "Delicious Vegan Desserts You Have to Try",
+    "description": "Who says vegan desserts can't be delicious? Try out these mouth-watering vegan dessert recipes that will satisfy your sweet tooth.",
+    "date": "2024-07-15",
+    "image": "https://plus.unsplash.com/premium_photo-1672242676668-17d9d981e447?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmVnYW4lMjBkZXNzZXJ0fGVufDB8fDB8fHww",
+    "recipe": "1. For chocolate avocado mousse, blend avocado, cocoa powder, and maple syrup.\n2. Make banana ice cream by blending frozen bananas.\n3. Try vegan brownies with almond flour and flax eggs.\n4. Bake apple crisps with oats and coconut oil.\n5. Enjoy chia pudding with almond milk and fresh berries."
+  },
+  {
+    "id": 9,
+    "title": "Exploring Traditional French Pastries",
+    "description": "Take a trip to France without leaving your kitchen. Discover the secrets behind making traditional French pastries like croissants and éclairs.",
+    "date": "2024-07-20",
+    "image": "https://images.unsplash.com/photo-1601034693303-8f8848f3ffa1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RnJlbmNoJTIwUGFzdHJpZXN8ZW58MHx8MHx8fDA%3D",
+    "recipe": "1. For croissants, prepare dough and fold with butter.\n2. Roll and cut the dough into triangles.\n3. Roll into crescent shapes and let rise.\n4. Bake until golden brown and flaky.\n5. For éclairs, pipe choux pastry and bake.\n6. Fill with pastry cream and dip in chocolate glaze."
+  },
+  {
+    "id": 10,
+    "title": "The Best BBQ Recipes for Summer",
+    "description": "Get ready for summer with these amazing BBQ recipes. From ribs to grilled veggies, we've got everything you need for the perfect BBQ.",
+    "date": "2024-07-25",
+    "image": "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmJxfGVufDB8fDB8fHww",
+    "recipe": "1. Marinate ribs in a mixture of spices and sauces.\n2. Slow-cook ribs until tender.\n3. Grill ribs for a smoky flavor.\n4. Prepare grilled vegetables with olive oil and herbs.\n5. Serve with homemade BBQ sauce and coleslaw."
+  }
+]
